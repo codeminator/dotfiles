@@ -1,4 +1,4 @@
 #!/bin/sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 sudo apt-get install -y rcm
-rcup -d . -f
+rcup -d . -f -v
