@@ -106,7 +106,3 @@ source $ZSH/oh-my-zsh.sh
 # set limits
 ulimit -n 200000
 ulimit -u 2048
-
-export PATH="/Users/codeminator/projects/github/bin:$PATH"
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
