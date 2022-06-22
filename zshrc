@@ -103,11 +103,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# Codespaces setup env vars
-CODESPACES_SPN_CLIENT_SECRET=2b636607-a144-47f3-93e2-8ffa83885401
-CODESPACES_REGISTRY_PASSWORD=df0ee6ad-f9b2-423c-878f-635d0c94dcc2
-GH_HOSTNAME="ghdev-codeminator.ngrok.io"
-
 # set limits
 ulimit -n 200000
 ulimit -u 2048
